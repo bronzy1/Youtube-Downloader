@@ -1,2 +1,0 @@
-streamlit>=1.10.0
-pytube>=12.1.0
